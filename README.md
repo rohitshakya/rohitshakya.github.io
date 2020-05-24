@@ -1,4 +1,4 @@
-## Portfolio, Blogs and many more...
+## Portfolio
 Link : https://rohitshakya.github.io/
 
 ## Download and Installation
