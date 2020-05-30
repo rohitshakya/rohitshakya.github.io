@@ -3,7 +3,6 @@ Link : https://rohitshakya.github.io/
 
 ## Download and Installation
 To begin using this template, choose one of the following options to get started:
-* Install via npm: `npm i startbootstrap-resume`
 * Clone the repo: `git clone https://github.com/rohitshakya/rohitshakya.github.io.git`
 * [Fork, Clone, or Download on GitHub](https://github.com/rohitshakya/rohitshakya.github.io.git)
 
