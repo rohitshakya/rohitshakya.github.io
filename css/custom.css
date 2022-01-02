@@ -1,0 +1,13 @@
+body {
+    min-width: 441px;
+}
+
+.cardHeaderFont {
+    height: 60px;
+    font-size: smaller
+}
+
+.overflowAuto {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
