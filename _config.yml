@@ -1,0 +1,59 @@
+# Site settings
+title: Rohit Shakya
+email: rohit.rkshakya@gmail.com
+description: >-
+  Personal portfolio and blog powered by Jekyll.
+profilePicture: profile.jpeg
+
+baseurl: ""
+url: "https://rohitshakya.github.io" 
+
+# Social Links
+leetcode: "https://leetcode.com/u/rohitshakya/"
+instagram: "https://www.instagram.com/rohit.rkshakya/"
+github: "https://github.com/rohitshakya"
+linkedin: "https://www.linkedin.com/in/rohitrkshakya/"
+email: "rohit.rkshakya@.gmail.com"
+
+# Theme and plugins
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Markdown and permalinks
+markdown: kramdown
+permalink: /:title/
+
+# Sass compression
+sass:
+  style: compressed
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name
+
+# Include pages from `_pages`
+include: ['_pages']
+
+# Optional features
+analytics: false
+
+# Default image if needed
+default-image: default-banner.png
+
+# footer
+# copyright:
+#   name:  Rohit Shakya
+#   link: 'http://github.com/rohitshakya'
+
+
+# Comments
+# go to disqus site and create a admin dashboard for your site
+disqus: yes
+disqus-shortname: rohitshakya-github-io
+
+
+# feeds are only relevant for posts, not useful for my projects
+allowPostFeeds: false

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-11-16T17:10:19+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rohit Shakya</title><subtitle>Personal portfolio and blog powered by Jekyll.</subtitle><entry><title type="html">Home</title><link href="http://localhost:4000/" rel="alternate" type="text/html" title="Home" /><published>2025-11-06T00:00:00+05:30</published><updated>2025-11-06T00:00:00+05:30</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/"><![CDATA[<div class="col-md-2"></div>
+<div class="col-md-8">
+    <header class="post-header text-center">
+    <img style="width: 15em; height: 15em; border-radius: 50%;" src="/images/profile.jpeg" />
+            <h1 style="font-size: 3em; font-family: Raleway;">Rohit Shakya</h1>
+       
+       
+        <a target="_blank" href="https://github.com/rohitshakya">
+            <li class="social github"><i class="fa fa-github-square"></i></li>
+        </a>
+        
+
+        
+        <a target="_blank" href="https://www.linkedin.com/in/rohitrkshakya/">
+            <li class="social linkedin"><i class="fa fa-linkedin-square"></i></li>
+        </a>
+        
+
+        
+        <a target="_blank" href="https://leetcode.com/u/rohitshakya/">
+            <li class="social leetcode"><i class="fa fa-code"></i></li>
+        </a>
+        
+
+        
+        <a target="_blank" href="https://www.instagram.com/rohit.rkshakya/">
+            <li class="social instagram"><i class="fa fa-instagram"></i></li>
+        </a>
+        
+
+        
+        <a target="_blank" href="mailto:rohit.rkshakya@.gmail.com">
+            <li class="social email"><i class="fa fa-envelope"></i></li>
+        </a>
+        
+    </header>
+    <div style="margin: 2em 0; text-align: left; font-family: 'Raleway', sans-serif;">
+    <p>
+        <strong>Hello!</strong> I'm <strong>Rohit Shakya</strong>, a <strong>Senior Backend Engineer</strong> with over 
+        <strong>5 years of experience</strong> designing and scaling 
+        <strong>cloud-native, low-latency systems</strong> using <strong>Java</strong>, 
+        <strong>Kotlin</strong>, and <strong>Spring Boot</strong>.
+    </p>
+    <p>
+        I specialize in <strong>system design</strong>, <strong>distributed systems</strong>, and 
+        <strong>event-driven architectures</strong> — building <strong>scalable microservices</strong> 
+        and optimizing <strong>real-time data pipelines</strong> with <strong>Kafka</strong>. 
+        I'm proficient in <strong>AWS</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>, 
+        <strong>caching strategies</strong>, and <strong>CI/CD pipelines</strong>.
+    </p>
+    <p>
+        I hold an <strong>M.Sc.</strong> and <strong>B.Sc. (Hons.)</strong> in 
+        <strong>Computer Science</strong> from the <strong>University of Delhi</strong>.  
+        <br />Explore my work under <a href="/projects">Projects</a> or check out my code on 
+        <a href="https://github.com/rohitshakya" target="_blank">GitHub</a> 🚀
+    </p>
+</div>
+
+<div class="col-md-2"></div>
+
+
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Rohit Shakya]]></summary></entry></feed>
