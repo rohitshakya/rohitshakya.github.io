@@ -4,14 +4,17 @@ title: Home
 permalink: /
 ---
 
-<div class="col-md-2"></div>
-<div class="col-md-8">
-    <header class="post-header text-center">
-    <img style="width: 15em; height: 15em; border-radius: 50%;"
-                src="{{site.baseurl}}/images/profile.jpeg">
-            <h1 style="font-size: 3em; font-family: Raleway;">Rohit Shakya</h1>
-       
-       {% if site.github %}
+<div class="row" style="margin-top: 2em;">
+
+    <!-- LEFT: Profile + Social -->
+    <div class="col-md-6 text-center">
+
+        <img style="width: 15em; height: 15em; border-radius: 50%;"
+             src="{{site.baseurl}}/images/profile.jpeg">
+
+        <h1 style="font-size: 3em; font-family: Raleway;">Rohit Shakya</h1>
+
+        {% if site.github %}
         <a target="_blank" href="{{site.github}}">
             <li class="social github"><i class="fa fa-github-square"></i></li>
         </a>
@@ -40,18 +43,23 @@ permalink: /
             <li class="social email"><i class="fa fa-envelope"></i></li>
         </a>
         {% endif %}
-    </header>
+    </div>
 
-    <div style="text-align:center; margin: 2em 0;">
-    <img 
-        src="https://leetcard.jacoblin.cool/rohitshakya?ext=heatmap" 
-        alt="LeetCode Stats"
-        style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.1);"
-    /></div>
+    <!-- RIGHT: LeetCode Graph -->
+    <div class="col-md-6 text-center" style="display:flex; align-items:center; justify-content:center;">
+        <img 
+            src="https://leetcard.jacoblin.cool/rohitshakya?ext=heatmap"
+            alt="LeetCode Stats"
+            style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.1);"
+        />
+    </div>
+
+</div>
 
 
-<div style="margin: 2em 0; text-align: left; font-family: 'Raleway', sans-serif;">
-
+<!-- INTRO SECTION BELOW BOTH COLUMNS -->
+<div style="margin: 3em 0; text-align: left; font-family: 'Raleway', sans-serif;">
+    
 <p>
     <strong>Hello!</strong> I'm <strong>Rohit Shakya</strong>, a 
     <strong>Senior Backend Engineer</strong> with over 
